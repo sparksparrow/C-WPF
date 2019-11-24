@@ -1,0 +1,25 @@
+D:\C++ projects\Laba 2.0 WF Zaur\bin\Debug\Laba 2.0 WF Zaur.exe.config
+D:\C++ projects\Laba 2.0 WF Zaur\bin\Debug\Laba 2.0 WF Zaur.exe
+D:\C++ projects\Laba 2.0 WF Zaur\bin\Debug\Laba 2.0 WF Zaur.pdb
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba 2.0 WF Zaur.csprojAssemblyReference.cache
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Form1.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Properties.Resources.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba 2.0 WF Zaur.csproj.GenerateResource.cache
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba 2.0 WF Zaur.exe
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba 2.0 WF Zaur.pdb
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task1.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task2.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task3.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task4.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task5.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task6.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task4_1.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task11.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task12.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task7.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task8.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task9.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Confirm_exit.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.Task10.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.InPutName.resources
+D:\C++ projects\Laba 2.0 WF Zaur\obj\Debug\Laba_2._0_WF_Zaur.BrowserHistory.resources
